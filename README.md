@@ -17,16 +17,16 @@ You must have gone through the [WiringPi-Python Setup instructions](https://gith
 
 **Get repo:**
     
-    git clone https://github.com/climberhunt/LapsePiTouch.git
+    git clone https://github.com/cjborchert/k-scale.git
     
     
 **Usage:**
 
-    cd LapsePiTouch
+    cd k-scale
 
-    sudo python lapse.py
+    sudo python k-scale.py
 
 
-Full details at: [Dave's Blog](http://www.davidhunt.ie/?p=3349)
+Full details of Lapse Pi Touch can be found at: [Dave's Blog](http://www.davidhunt.ie/?p=3349)
 
 If you would like to donate to the Lapse Pi Touch project to keep it active you can do so via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y3Y6NK98CZUZW)
