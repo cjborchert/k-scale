@@ -1,4 +1,4 @@
-k-scale is a personal work in progress based on the following:
+k-scale is a personal work in progress based on the following code:
 
 LapsePiTouch
 ============
